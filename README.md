@@ -14,15 +14,11 @@ Throughout the course and especially during Final Project I used tools listed be
 
 A) Testing
 
-**Test Cases + Documentation:**
-
--Jira + Confluence
+-Jira
 
 -Azure DevOps 
 
 -Testrail
-
-**Test Recording:**
 
 -Selenium for Chrome
 
@@ -30,22 +26,12 @@ A) Testing
 
 -Windows PSR
 
-**Testing:**
-
 -Chrome Developer Tools
 
 
-B) Basics of software development:
+B) Basics of test automation:
 
--IntelliJ IDEA Community Edition 2022
-
-
-C) Basics of databases:
-
--MySQL
-
-
-
+-JAVA + IntelliJ IDEA Community Edition 2022 with Cucumber
 
 
 **COURSES**
