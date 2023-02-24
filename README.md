@@ -48,6 +48,12 @@ It was composed of 114h of work on these topics:
 -Scrum workshop
 -BDD methodology for testing, Selenium WebDriver basics
 
+**MY FIRST PROJECT**
+
+under this link you can find some screenshots and docs related to first project completed during SDA course.
+https://drive.google.com/drive/folders/1HCnRG15LEiBIf8if4Ezb7sHrhU4Ll0hI?usp=share_link
+
+
 **LIBRARY**
 
 -"Zawód tester" Radosław Smilgin, 2018 r. https://lubimyczytac.pl/ksiazka/291227/zawod-tester
@@ -58,7 +64,4 @@ It was composed of 114h of work on these topics:
 
 -"Java podstawy wyd. XI" Cay Horstmann 2019 r. https://lubimyczytac.pl/ksiazka/4946366/java-podstawy-wydanie-xi **IN PROGRESS, I'VE JUST STARTED**
 
-**MY FIRST PROJECT**
 
-under this link you can find some screenshots and docs related to first project completed during SDA course.
-https://drive.google.com/drive/folders/1HCnRG15LEiBIf8if4Ezb7sHrhU4Ll0hI?usp=share_link
